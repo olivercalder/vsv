@@ -1,0 +1,12 @@
+ncurses development files:
+    Fedora/RHEL:
+        ncurses-devel
+    Debian/Ubuntu:
+        libncurses-dev
+
+micropython (for parsing equations -- subject to change):
+    Fedora/RHEL:
+        micropython
+    Debian/Ubuntu:
+        micropython
+
